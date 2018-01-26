@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "async": "^2.5.0",
+    "hoxy": "^3.2.2",
     "mkdirp": "^0.5.1",
     "node-forge": "^0.7.1",
     "optimist": "^0.6.1",
